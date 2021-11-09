@@ -1,0 +1,4466 @@
+[
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1-1.jpg",
+        "id": 1,
+        "name": "Аксессуары для волос",
+        "parent_id": 2,
+        "slug": "aksessuary-dlya-volos",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2-1.jpg",
+        "id": 2,
+        "name": "Бижутерия",
+        "parent_id": 63495,
+        "slug": "bizhuteriya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3.jpg",
+        "id": 3,
+        "name": "Бизнес-сувениры",
+        "parent_id": 2851,
+        "slug": "biznes-suveniry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4.jpg",
+        "id": 4,
+        "name": "Брелоки и подвески",
+        "parent_id": 2851,
+        "slug": "breloki-i-podveski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/5.jpg",
+        "id": 5,
+        "name": "Талисманы и фэншуй",
+        "parent_id": 2851,
+        "slug": "talismany-i-fenshuy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/7.jpg",
+        "id": 7,
+        "name": "Интерьерные сувениры",
+        "parent_id": 2851,
+        "slug": "interernye-suveniry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/8.jpg",
+        "id": 8,
+        "name": "Канцтовары",
+        "parent_id": 63495,
+        "slug": "kanctovary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/10.jpg",
+        "id": 10,
+        "name": "Магниты и значки",
+        "parent_id": 2851,
+        "slug": "magnity-i-znachki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/11.jpg",
+        "id": 11,
+        "name": "Подарочные наборы",
+        "parent_id": 2851,
+        "slug": "podarochnye-nabory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/12.jpg",
+        "id": 12,
+        "name": "Посуда",
+        "parent_id": 63495,
+        "slug": "posuda",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/16.jpg",
+        "id": 16,
+        "name": "Спорт и туризм",
+        "parent_id": 63495,
+        "slug": "sport-i-turizm",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/19.jpg",
+        "id": 19,
+        "name": "Товары для праздника",
+        "parent_id": 3003,
+        "slug": "tovary-dlya-prazdnika",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/20.jpg",
+        "id": 20,
+        "name": "Подарочная упаковка",
+        "parent_id": 45722,
+        "slug": "podarochnaya-upakovka",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21.jpg",
+        "id": 21,
+        "name": "Фоторамки и фотоальбомы",
+        "parent_id": 2851,
+        "slug": "fotoramki-i-fotoalbomy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/22.jpg",
+        "id": 22,
+        "name": "Хозтовары",
+        "parent_id": 63495,
+        "slug": "hoztovary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/26.jpg",
+        "id": 26,
+        "name": "Ободки",
+        "parent_id": 1,
+        "slug": "obodki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/35-1.jpg",
+        "id": 35,
+        "name": "Резинки",
+        "parent_id": 1,
+        "slug": "rezinki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/43.jpg",
+        "id": 43,
+        "name": "Крабы, бананы, заколки",
+        "parent_id": 1,
+        "slug": "kraby-banany-zakolki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/50.jpg",
+        "id": 50,
+        "name": "Наборы аксессуаров для волос",
+        "parent_id": 1,
+        "slug": "nabory-aksessuarov-dlya-volos",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/77.jpg",
+        "id": 77,
+        "name": "Наклейки",
+        "parent_id": 690,
+        "slug": "nakleyki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/81.jpg",
+        "id": 81,
+        "name": "Туризм",
+        "parent_id": 16,
+        "slug": "turizm",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/91.jpg",
+        "id": 91,
+        "name": "Ручки",
+        "parent_id": 4203,
+        "slug": "ruchki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/96.jpg",
+        "id": 96,
+        "name": "Карандаши",
+        "parent_id": 4203,
+        "slug": "karandashi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/99.jpg",
+        "id": 99,
+        "name": "Зеркала",
+        "parent_id": 12218,
+        "slug": "zerkala",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/121-1.jpg",
+        "id": 121,
+        "name": "Блокноты и записные книжки",
+        "parent_id": 4132,
+        "slug": "bloknoty-i-zapisnye-knizhki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/124-1.jpg",
+        "id": 124,
+        "name": "Ежедневники",
+        "parent_id": 4132,
+        "slug": "ezhednevniki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/178.jpg",
+        "id": 178,
+        "name": "Настольные спортивные игры",
+        "parent_id": 16,
+        "slug": "nastolnye-sportivnye-igry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/182.jpg",
+        "id": 182,
+        "name": "Активный спорт и развлечения",
+        "parent_id": 16,
+        "slug": "aktivnyy-sport-i-razvlecheniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/201-1.jpg",
+        "id": 201,
+        "name": "Крестики-нолики",
+        "parent_id": 178,
+        "slug": "krestiki-noliki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/212-1.jpg",
+        "id": 212,
+        "name": "Кошельки",
+        "parent_id": 56439,
+        "slug": "koshelki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/222-1.jpg",
+        "id": 222,
+        "name": "Массажёры и чесалки",
+        "parent_id": 12718,
+        "slug": "massazhery-i-chesalki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/233.jpg",
+        "id": 233,
+        "name": "Аксессуары для макияжа",
+        "parent_id": 37876,
+        "slug": "aksessuary-dlya-makiyazha",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/246.jpg",
+        "id": 246,
+        "name": "Подарочные наборы, разное",
+        "parent_id": 11,
+        "slug": "podarochnye-nabory-raznoe",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/247.jpg",
+        "id": 247,
+        "name": "Маникюр и педикюр",
+        "parent_id": 12218,
+        "slug": "manikyur-i-pedikyur",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/261-1.jpg",
+        "id": 261,
+        "name": "Дизайн ногтей",
+        "parent_id": 247,
+        "slug": "dizayn-nogtey",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/279.jpg",
+        "id": 279,
+        "name": "Расчёски",
+        "parent_id": 14603,
+        "slug": "rascheski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/320-1.jpg",
+        "id": 320,
+        "name": "Швейная галантерея",
+        "parent_id": 63495,
+        "slug": "shveynaya-galantereya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/476-1.jpg",
+        "id": 476,
+        "name": "Наборы для спиртных напитков",
+        "parent_id": 3,
+        "slug": "nabory-dlya-spirtnyh-napitkov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/479.jpg",
+        "id": 479,
+        "name": "Фигурки",
+        "parent_id": 7,
+        "slug": "figurki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/490-1.jpg",
+        "id": 490,
+        "name": "Фотоальбомы",
+        "parent_id": 21,
+        "slug": "fotoalbomy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/506-1.jpg",
+        "id": 506,
+        "name": "Подарочные мешочки",
+        "parent_id": 20,
+        "slug": "podarochnye-meshochki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/510-1.jpg",
+        "id": 510,
+        "name": "Ленты",
+        "parent_id": 20,
+        "slug": "lenty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/515-1.jpg",
+        "id": 515,
+        "name": "Упаковочная бумага",
+        "parent_id": 20,
+        "slug": "upakovochnaya-bumaga",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/518.jpg",
+        "id": 518,
+        "name": "Коробки",
+        "parent_id": 20,
+        "slug": "korobki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/521.jpg",
+        "id": 521,
+        "name": "Копилки",
+        "parent_id": 2851,
+        "slug": "kopilki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/542.jpg",
+        "id": 542,
+        "name": "Скрапбукинг",
+        "parent_id": 690,
+        "slug": "skrapbuking",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/573.jpg",
+        "id": 573,
+        "name": "Шкатулки",
+        "parent_id": 2851,
+        "slug": "shkatulki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/574-1.jpg",
+        "id": 574,
+        "name": "Деревянные шкатулки",
+        "parent_id": 573,
+        "slug": "derevyannye-shkatulki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/576-1.jpg",
+        "id": 576,
+        "name": "Шкатулки из керамики и фарфора",
+        "parent_id": 573,
+        "slug": "shkatulki-iz-keramiki-i-farfora",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/577-1.jpg",
+        "id": 577,
+        "name": "Металлические шкатулки",
+        "parent_id": 573,
+        "slug": "metallicheskie-shkatulki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/584-1.jpg",
+        "id": 584,
+        "name": "Упаковка для цветов",
+        "parent_id": 45722,
+        "slug": "upakovka-dlya-cvetov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/589.jpg",
+        "id": 589,
+        "name": "Магниты",
+        "parent_id": 10,
+        "slug": "magnity",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/595-1.jpg",
+        "id": 595,
+        "name": "Подарочные пакеты",
+        "parent_id": 20,
+        "slug": "podarochnye-pakety",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/645-1.jpg",
+        "id": 645,
+        "name": "Открытки",
+        "parent_id": 38076,
+        "slug": "otkrytki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/668.jpg",
+        "id": 668,
+        "name": "Благовония и подставки",
+        "parent_id": 21194,
+        "slug": "blagovoniya-i-podstavki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/687-1.jpg",
+        "id": 687,
+        "name": "Игрушки",
+        "parent_id": 63495,
+        "slug": "igrushki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/690.jpg",
+        "id": 690,
+        "name": "Творчество",
+        "parent_id": 63495,
+        "slug": "tvorchestvo",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/693-1.jpg",
+        "id": 693,
+        "name": "Игрушки для малышей",
+        "parent_id": 687,
+        "slug": "igrushki-dlya-malyshey",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/694.jpg",
+        "id": 694,
+        "name": "Игрушки для развлечений",
+        "parent_id": 687,
+        "slug": "igrushki-dlya-razvlecheniy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/695.jpg",
+        "id": 695,
+        "name": "Музыкальные игрушки",
+        "parent_id": 687,
+        "slug": "muzykalnye-igrushki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/698.jpg",
+        "id": 698,
+        "name": "Конструкторы",
+        "parent_id": 687,
+        "slug": "konstruktory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/699.jpg",
+        "id": 699,
+        "name": "Настольные игры",
+        "parent_id": 687,
+        "slug": "nastolnye-igry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/701.jpg",
+        "id": 701,
+        "name": "Мягкие игрушки",
+        "parent_id": 687,
+        "slug": "myagkie-igrushki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/703.jpg",
+        "id": 703,
+        "name": "Игрушки",
+        "parent_id": 875,
+        "slug": "novogodnie-igrushki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/704.jpg",
+        "id": 704,
+        "name": "Развивающие и обучающие игрушки",
+        "parent_id": 687,
+        "slug": "razvivayuschie-i-obuchayuschie-igrushki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/705.jpg",
+        "id": 705,
+        "name": "Спортивные товары",
+        "parent_id": 687,
+        "slug": "sportivnye-tovary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/709.jpg",
+        "id": 709,
+        "name": "Брелоки",
+        "parent_id": 4,
+        "slug": "breloki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/712-1.jpg",
+        "id": 712,
+        "name": "Мягкие брелоки, подвески и магниты",
+        "parent_id": 701,
+        "slug": "myagkie-breloki-podveski-magnity",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/720.jpg",
+        "id": 720,
+        "name": "Подвески",
+        "parent_id": 4,
+        "slug": "podveski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/747.jpg",
+        "id": 747,
+        "name": "Головоломки",
+        "parent_id": 704,
+        "slug": "golovolomki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/749.jpg",
+        "id": 749,
+        "name": "Йо-йо и спирали",
+        "parent_id": 694,
+        "slug": "yo-yo-spirali",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/790.jpg",
+        "id": 790,
+        "name": "Приколы",
+        "parent_id": 19,
+        "slug": "prikoly",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/817.jpg",
+        "id": 817,
+        "name": "Карнавальные аксессуары",
+        "parent_id": 19,
+        "slug": "karnavalnye-aksessuary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/824-1.jpg",
+        "id": 824,
+        "name": "Аксессуары для праздника",
+        "parent_id": 19,
+        "slug": "aksessuary-dlya-prazdnika",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/842-1.jpg",
+        "id": 842,
+        "name": "Карнавальные костюмы",
+        "parent_id": 3003,
+        "slug": "karnavalnye-kostyumy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/861.jpg",
+        "id": 861,
+        "name": "Значки",
+        "parent_id": 10,
+        "slug": "znachki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/875.jpg",
+        "id": 875,
+        "name": "Новый год",
+        "parent_id": 3003,
+        "slug": "novyy-god",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/882-1.jpg",
+        "id": 882,
+        "name": "Карнавальные маски",
+        "parent_id": 19,
+        "slug": "karnavalnye-maski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/913-1.jpg",
+        "id": 913,
+        "name": "Интерьерные украшения",
+        "parent_id": 19,
+        "slug": "interernye-ukrasheniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/919.jpg",
+        "id": 919,
+        "name": "Товары для праздника",
+        "parent_id": 875,
+        "slug": "tovary-dlya-prazdnika",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/958-1.jpg",
+        "id": 958,
+        "name": "Хлопушки",
+        "parent_id": 19,
+        "slug": "hlopushki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/961-1.jpg",
+        "id": 961,
+        "name": "Воздушные шары",
+        "parent_id": 3003,
+        "slug": "vozdushnye-shary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/962.jpg",
+        "id": 962,
+        "name": "Латексные шары",
+        "parent_id": 961,
+        "slug": "lateksnye-shary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/974.jpg",
+        "id": 974,
+        "name": "Фольгированные шары",
+        "parent_id": 961,
+        "slug": "folgirovannye-shary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/984.jpg",
+        "id": 984,
+        "name": "Интерьерные украшения",
+        "parent_id": 875,
+        "slug": "novogodnie-ukrasheniya-dlya-interera",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1255.jpg",
+        "id": 1255,
+        "name": "Животные и насекомые",
+        "parent_id": 687,
+        "slug": "zhivotnye-i-nasekomye",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1449.jpg",
+        "id": 1449,
+        "name": "Мозаики",
+        "parent_id": 704,
+        "slug": "mozaiki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1490-1.jpg",
+        "id": 1490,
+        "name": "Игры",
+        "parent_id": 3003,
+        "slug": "igry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1520-1.jpg",
+        "id": 1520,
+        "name": "Наградная атрибутика",
+        "parent_id": 3003,
+        "slug": "nagradnaya-atributika",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1531.jpg",
+        "id": 1531,
+        "name": "Грамоты, сертификаты и дипломы",
+        "parent_id": 1520,
+        "slug": "gramoty-sertifikaty-i-diplomy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1541.jpg",
+        "id": 1541,
+        "name": "Игрушки для ванной",
+        "parent_id": 693,
+        "slug": "igrushki-dlya-vannoy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1793-1.jpg",
+        "id": 1793,
+        "name": "Браслеты",
+        "parent_id": 2,
+        "slug": "braslety",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1811-1.jpg",
+        "id": 1811,
+        "name": "Броши и значки",
+        "parent_id": 2,
+        "slug": "broshi-i-znachki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1823-1.jpg",
+        "id": 1823,
+        "name": "Серьги",
+        "parent_id": 2,
+        "slug": "sergi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1835-1.jpg",
+        "id": 1835,
+        "name": "Кулоны",
+        "parent_id": 38352,
+        "slug": "kulony",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1863-1.jpg",
+        "id": 1863,
+        "name": "Детская бижутерия",
+        "parent_id": 2,
+        "slug": "detskaya-bizhuteriya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1869.jpg",
+        "id": 1869,
+        "name": "Детские клипсы",
+        "parent_id": 1863,
+        "slug": "detskie-klipsy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1882.jpg",
+        "id": 1882,
+        "name": "Торговое оборудование",
+        "parent_id": 29205,
+        "slug": "torgovoe-oborudovanie",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1913.jpg",
+        "id": 1913,
+        "name": "Книги",
+        "parent_id": 63495,
+        "slug": "knigi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1917.jpg",
+        "id": 1917,
+        "name": "Обучающие и развивающие игрушки",
+        "parent_id": 693,
+        "slug": "obuchayuschie-i-razvivayuschie-igrushki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1945.jpg",
+        "id": 1945,
+        "name": "Копилки ассорти",
+        "parent_id": 521,
+        "slug": "kopilki-assorti",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1970-2.jpg",
+        "id": 1970,
+        "name": "Кухонные наборы",
+        "parent_id": 3407,
+        "slug": "kuhonnye-nabory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/1999.jpg",
+        "id": 1999,
+        "name": "Рисование",
+        "parent_id": 690,
+        "slug": "risovanie",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2000-1.jpg",
+        "id": 2000,
+        "name": "Раскраски",
+        "parent_id": 1999,
+        "slug": "raskraski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2001.jpg",
+        "id": 2001,
+        "name": "Поделки",
+        "parent_id": 40711,
+        "slug": "podelki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2113.jpg",
+        "id": 2113,
+        "name": "Пазлы",
+        "parent_id": 687,
+        "slug": "pazly",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2118-1.jpg",
+        "id": 2118,
+        "name": "Пазлы для малышей",
+        "parent_id": 2113,
+        "slug": "pazly-dlya-malyshey",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2127.jpg",
+        "id": 2127,
+        "name": "Классические пазлы",
+        "parent_id": 2113,
+        "slug": "nastolnye-pazly",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2184.jpg",
+        "id": 2184,
+        "name": "Книжки для малышей",
+        "parent_id": 19912,
+        "slug": "knizhki-dlya-malyshey",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2231-1.jpg",
+        "id": 2231,
+        "name": "Деревянный конструктор",
+        "parent_id": 698,
+        "slug": "derevyannyy-konstruktor",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2334.jpg",
+        "id": 2334,
+        "name": "Классические настольные игры",
+        "parent_id": 699,
+        "slug": "klassicheskie-nastolnye-igry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2343-1.jpg",
+        "id": 2343,
+        "name": "Рамки-вкладыши",
+        "parent_id": 704,
+        "slug": "ramki-vkladyshi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2424-1.jpg",
+        "id": 2424,
+        "name": "Часы и календари",
+        "parent_id": 704,
+        "slug": "chasy-i-kalendari",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2426.jpg",
+        "id": 2426,
+        "name": "Шнуровки",
+        "parent_id": 704,
+        "slug": "shnurovki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2460.jpg",
+        "id": 2460,
+        "name": "Обереги, амулеты",
+        "parent_id": 2851,
+        "slug": "oberegi-amulety",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2462.jpg",
+        "id": 2462,
+        "name": "Обереги",
+        "parent_id": 2460,
+        "slug": "oberegi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2500.jpg",
+        "id": 2500,
+        "name": "Декор для кухни",
+        "parent_id": 12,
+        "slug": "dekor-dlya-kuhni",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2755.jpg",
+        "id": 2755,
+        "name": "Лепка",
+        "parent_id": 690,
+        "slug": "lepka",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2771.jpg",
+        "id": 2771,
+        "name": "Наборы для вязания",
+        "parent_id": 26954,
+        "slug": "nabory-dlya-vyazaniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2775.jpg",
+        "id": 2775,
+        "name": "Аппликации",
+        "parent_id": 690,
+        "slug": "applikacii",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2782.jpg",
+        "id": 2782,
+        "name": "Фрески",
+        "parent_id": 690,
+        "slug": "freski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2787.jpg",
+        "id": 2787,
+        "name": "Доски для выжигания",
+        "parent_id": 4260,
+        "slug": "doski-dlya-vyzhiganiya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2789-2.jpg",
+        "id": 2789,
+        "name": "Наборы для лепки",
+        "parent_id": 2755,
+        "slug": "nabory-dlya-lepki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/2851.jpg",
+        "id": 2851,
+        "name": "Сувениры",
+        "parent_id": 63495,
+        "slug": "suveniry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3000-1.jpg",
+        "id": 3000,
+        "name": "Рюкзаки",
+        "parent_id": 56439,
+        "slug": "ryukzaki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3003.jpg",
+        "id": 3003,
+        "name": "Праздники",
+        "parent_id": 63495,
+        "slug": "prazdniki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3071-1.jpg",
+        "id": 3071,
+        "name": "Детские сумочки, рюкзаки, кошельки и чехлы",
+        "parent_id": 701,
+        "slug": "detskie-sumochki-ryukzaki-koshelki-chehly",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3350.jpg",
+        "id": 3350,
+        "name": "Украшения своими руками",
+        "parent_id": 40711,
+        "slug": "ukrasheniya-svoimi-rukami",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3397.jpg",
+        "id": 3397,
+        "name": "Текстиль",
+        "parent_id": 63495,
+        "slug": "tekstil",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3398-1.jpg",
+        "id": 3398,
+        "name": "Полотенца",
+        "parent_id": 37043,
+        "slug": "polotenca",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3407-1.jpg",
+        "id": 3407,
+        "name": "Текстиль для кухни",
+        "parent_id": 3397,
+        "slug": "tekstil-dlya-kuhni",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3409-2.jpg",
+        "id": 3409,
+        "name": "Кухонные полотенца",
+        "parent_id": 3407,
+        "slug": "kuhonnye-polotenca",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3515.jpg",
+        "id": 3515,
+        "name": "Одежда и обувь",
+        "parent_id": 63495,
+        "slug": "odezhda-i-obuv",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3666-1.jpg",
+        "id": 3666,
+        "name": "Сумки",
+        "parent_id": 56437,
+        "slug": "sumki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3689.jpg",
+        "id": 3689,
+        "name": "Авто и мото",
+        "parent_id": 63495,
+        "slug": "avto-i-moto",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3690.jpg",
+        "id": 3690,
+        "name": "Ароматизаторы",
+        "parent_id": 3689,
+        "slug": "aromatizatory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3815.jpg",
+        "id": 3815,
+        "name": "Дыроколы",
+        "parent_id": 13411,
+        "slug": "dyrokoly",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3837.jpg",
+        "id": 3837,
+        "name": "Линейки",
+        "parent_id": 34697,
+        "slug": "lineyki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3918.jpg",
+        "id": 3918,
+        "name": "Клейкая канцелярская лента",
+        "parent_id": 4485,
+        "slug": "kleykaya-kancelyarskaya-lenta",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/3919-1.jpg",
+        "id": 3919,
+        "name": "Наборы для скрапбукинга",
+        "parent_id": 542,
+        "slug": "nabory-dlya-skrapbukinga",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4038.jpg",
+        "id": 4038,
+        "name": "Бутылочки и аксессуары",
+        "parent_id": 5117,
+        "slug": "butylochki-i-aksessuary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4039.jpg",
+        "id": 4039,
+        "name": "Пустышки и аксессуары",
+        "parent_id": 5117,
+        "slug": "pustyshki-i-aksessuary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4045.jpg",
+        "id": 4045,
+        "name": "Нагрудники, фартуки",
+        "parent_id": 5117,
+        "slug": "nagrudniki-fartuki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4047.jpg",
+        "id": 4047,
+        "name": "Уход и гигиена",
+        "parent_id": 5891,
+        "slug": "uhod-i-gigiena",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4055-1.jpg",
+        "id": 4055,
+        "name": "Сундучок Пандоры",
+        "parent_id": 2,
+        "slug": "sunduchok-pandory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4130.jpg",
+        "id": 4130,
+        "name": "Гравюры",
+        "parent_id": 690,
+        "slug": "gravyury",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4132.jpg",
+        "id": 4132,
+        "name": "Бумага и бумажная продукция",
+        "parent_id": 8,
+        "slug": "bumaga-i-bumazhnaya-produkciya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4136-1.jpg",
+        "id": 4136,
+        "name": "Закладки",
+        "parent_id": 4132,
+        "slug": "zakladki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4161.jpg",
+        "id": 4161,
+        "name": "Внешние дополнительные элементы",
+        "parent_id": 3689,
+        "slug": "vneshnie-dopolnitelnye-elementy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4203.jpg",
+        "id": 4203,
+        "name": "Письменные принадлежности",
+        "parent_id": 8,
+        "slug": "pismennye-prinadlezhnosti",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4260.jpg",
+        "id": 4260,
+        "name": "Выжигание и резьба по дереву",
+        "parent_id": 690,
+        "slug": "vyzhiganie-i-rezba-po-derevu",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4262.jpg",
+        "id": 4262,
+        "name": "Мыльные пузыри",
+        "parent_id": 694,
+        "slug": "mylnye-puzyri",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4267.jpg",
+        "id": 4267,
+        "name": "Талисманы",
+        "parent_id": 5,
+        "slug": "talismany",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4331-1.jpg",
+        "id": 4331,
+        "name": "Сказки, стихи, рассказы",
+        "parent_id": 19912,
+        "slug": "skazki-stihi-rasskazy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4349-1.jpg",
+        "id": 4349,
+        "name": "Книжки для обучения и развития",
+        "parent_id": 19912,
+        "slug": "knizhki-dlya-obucheniya-i-razvitiya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4446.jpg",
+        "id": 4446,
+        "name": "Пазлы 3D",
+        "parent_id": 2113,
+        "slug": "pazly-3d",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4485.jpg",
+        "id": 4485,
+        "name": "Офисные принадлежности",
+        "parent_id": 8,
+        "slug": "ofisnye-prinadlezhnosti",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4489.jpg",
+        "id": 4489,
+        "name": "Школьные товары",
+        "parent_id": 8,
+        "slug": "shkolnye-tovary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4660.jpg",
+        "id": 4660,
+        "name": "Календари",
+        "parent_id": 4132,
+        "slug": "kalendari",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4727.jpg",
+        "id": 4727,
+        "name": "Конверты для денег",
+        "parent_id": 38076,
+        "slug": "konverty-dlya-deneg",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4734.jpg",
+        "id": 4734,
+        "name": "Приглашения",
+        "parent_id": 38076,
+        "slug": "priglasheniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4773-1.jpg",
+        "id": 4773,
+        "name": "Лизуны, липучки",
+        "parent_id": 694,
+        "slug": "lizuny-lipuchki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4804.jpg",
+        "id": 4804,
+        "name": "Детская одежда",
+        "parent_id": 3515,
+        "slug": "detskaya-odezhda",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4849.jpg",
+        "id": 4849,
+        "name": "Посуда для собак",
+        "parent_id": 11765,
+        "slug": "posuda-dlya-sobak",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/4971.jpg",
+        "id": 4971,
+        "name": "Творчество",
+        "parent_id": 875,
+        "slug": "tvorchestvo",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/5002-1.jpg",
+        "id": 5002,
+        "name": "Лампы",
+        "parent_id": 39547,
+        "slug": "lampy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/5117.jpg",
+        "id": 5117,
+        "name": "Товары для кормления",
+        "parent_id": 5891,
+        "slug": "tovary-dlya-kormleniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/5265.jpg",
+        "id": 5265,
+        "name": "Мелкоофисные аксессуары",
+        "parent_id": 4485,
+        "slug": "melkoofisnye-aksessuary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/5320.jpg",
+        "id": 5320,
+        "name": "Изготовление свечей, парфюма, мыла и косметики",
+        "parent_id": 690,
+        "slug": "izgotovlenie-svechey-parfyuma-myla-i-kosmetiki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/5407.jpg",
+        "id": 5407,
+        "name": "Зимние товары",
+        "parent_id": 687,
+        "slug": "zimnie-tovary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/5477.jpg",
+        "id": 5477,
+        "name": "Логические сортеры",
+        "parent_id": 704,
+        "slug": "logicheskie-sortery",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/5661-1.jpg",
+        "id": 5661,
+        "name": "Баня и сауна",
+        "parent_id": 63495,
+        "slug": "banya-i-sauna",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/5662.jpg",
+        "id": 5662,
+        "name": "Таблички для бани и сауны",
+        "parent_id": 15725,
+        "slug": "tablichki-dlya-bani-i-sauny",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/5754.jpg",
+        "id": 5754,
+        "name": "Декоративные тарелки",
+        "parent_id": 7,
+        "slug": "dekorativnye-tarelki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/5891.jpg",
+        "id": 5891,
+        "name": "Детские товары",
+        "parent_id": 63495,
+        "slug": "detskie-tovary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/5964-2.jpg",
+        "id": 5964,
+        "name": "Прихватки, варежки",
+        "parent_id": 3407,
+        "slug": "prihvatki-varezhki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/6245.jpg",
+        "id": 6245,
+        "name": "Детские наклейки",
+        "parent_id": 77,
+        "slug": "detskie-nakleyki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/6312.jpg",
+        "id": 6312,
+        "name": "Масла",
+        "parent_id": 26518,
+        "slug": "masla",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/6321.jpg",
+        "id": 6321,
+        "name": "Светодиодные фигуры",
+        "parent_id": 21424,
+        "slug": "svetodiodnye-figury",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/6326.jpg",
+        "id": 6326,
+        "name": "Гирлянды",
+        "parent_id": 39547,
+        "slug": "girlyandy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/6327.jpg",
+        "id": 6327,
+        "name": "Комнатные гирлянды",
+        "parent_id": 6326,
+        "slug": "komnatnye-girlyandy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/6353-1.jpg",
+        "id": 6353,
+        "name": "Светодиодные ленты",
+        "parent_id": 37459,
+        "slug": "svetodiodnye-lenty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/6529.jpg",
+        "id": 6529,
+        "name": "Одежда для новорождённых",
+        "parent_id": 4804,
+        "slug": "odezhda-dlya-novorozhdennyh",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/6568.jpg",
+        "id": 6568,
+        "name": "Носки, колготки и гольфы",
+        "parent_id": 4804,
+        "slug": "chulochno-nosochnye-izdeliya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/6950-1.jpg",
+        "id": 6950,
+        "name": "Ящики, коробки для хранения",
+        "parent_id": 53092,
+        "slug": "yaschiki-korobki-dlya-hraneniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/7039.jpg",
+        "id": 7039,
+        "name": "Коврики под миску",
+        "parent_id": 4849,
+        "slug": "kovriki-i-podstavki-pod-miski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/7458.jpg",
+        "id": 7458,
+        "name": "Средства для освежения воздуха",
+        "parent_id": 8514,
+        "slug": "sredstva-dlya-osvezheniya-vozduha",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/7825.jpg",
+        "id": 7825,
+        "name": "Подковы",
+        "parent_id": 7,
+        "slug": "podkovy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/7863-1.jpg",
+        "id": 7863,
+        "name": "Носки и гетры",
+        "parent_id": 22887,
+        "slug": "noski-getry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/7981.jpg",
+        "id": 7981,
+        "name": "Кашпо, горшки, подставки для цветов",
+        "parent_id": 11091,
+        "slug": "kashpo-gorshki-podstavki-dlya-cvetov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/8358.jpg",
+        "id": 8358,
+        "name": "Игры для взрослой компании",
+        "parent_id": 1490,
+        "slug": "igry-dlya-vzrosloy-kompanii",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/8500-1.jpg",
+        "id": 8500,
+        "name": "Аромасаше",
+        "parent_id": 8514,
+        "slug": "aromasashe",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/8514.jpg",
+        "id": 8514,
+        "name": "Бытовая химия",
+        "parent_id": 22,
+        "slug": "bytovaya-himiya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/8543.jpg",
+        "id": 8543,
+        "name": "Гигиена",
+        "parent_id": 12218,
+        "slug": "gigiena",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/8599.jpg",
+        "id": 8599,
+        "name": "Плёнка",
+        "parent_id": 20,
+        "slug": "plenka",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/9807.jpg",
+        "id": 9807,
+        "name": "Светодиодные модули",
+        "parent_id": 37459,
+        "slug": "svetodiodnye-moduli",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/10422-1.jpg",
+        "id": 10422,
+        "name": "Наклейки для творчества",
+        "parent_id": 77,
+        "slug": "nakleyki-dlya-tvorchestva",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/10933.jpg",
+        "id": 10933,
+        "name": "Одноразовая посуда",
+        "parent_id": 12,
+        "slug": "odnorazovaya-posuda",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/10975.jpg",
+        "id": 10975,
+        "name": "Кухонные принадлежности и инструменты",
+        "parent_id": 12,
+        "slug": "kuhonnye-prinadlezhnosti-i-instrumenty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/10977-1.jpg",
+        "id": 10977,
+        "name": "Кондитерские принадлежности и инвентарь для выпечки",
+        "parent_id": 12,
+        "slug": "konditerskie-prinadlezhnosti-i-inventar-dlya-vypechki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/10990-1.jpg",
+        "id": 10990,
+        "name": "Столовые приборы",
+        "parent_id": 34427,
+        "slug": "stolovye-pribory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/11091.jpg",
+        "id": 11091,
+        "name": "Интерьер",
+        "parent_id": 63495,
+        "slug": "interer",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/11092.jpg",
+        "id": 11092,
+        "name": "Свечи",
+        "parent_id": 11091,
+        "slug": "svechi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/11093.jpg",
+        "id": 11093,
+        "name": "Подсвечники",
+        "parent_id": 11091,
+        "slug": "podsvechniki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/11187.jpg",
+        "id": 11187,
+        "name": "Кожгалантерея",
+        "parent_id": 63495,
+        "slug": "kozhgalantereya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/11188.jpg",
+        "id": 11188,
+        "name": "Товары в дорогу",
+        "parent_id": 81,
+        "slug": "tovary-v-dorogu",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/11659-1.jpg",
+        "id": 11659,
+        "name": "Книги",
+        "parent_id": 875,
+        "slug": "knigi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/11663-1.jpg",
+        "id": 11663,
+        "name": "Чехлы",
+        "parent_id": 46962,
+        "slug": "chehly-dlya-telefonov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/11666-1.jpg",
+        "id": 11666,
+        "name": "Стилусы и заглушки",
+        "parent_id": 46962,
+        "slug": "stilusy-i-zaglushki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/11669.jpg",
+        "id": 11669,
+        "name": "Подставки для сотовых",
+        "parent_id": 46962,
+        "slug": "podstavki-dlya-sotovyh",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/11765.jpg",
+        "id": 11765,
+        "name": "Товары для собак",
+        "parent_id": 5892,
+        "slug": "tovary-dlya-sobak",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/12218-1.jpg",
+        "id": 12218,
+        "name": "Красота и здоровье",
+        "parent_id": 63495,
+        "slug": "krasota-i-zdorove",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/12219.jpg",
+        "id": 12219,
+        "name": "Уход за лицом",
+        "parent_id": 12218,
+        "slug": "uhod-za-licom",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/12581.jpg",
+        "id": 12581,
+        "name": "Сувенирные деньги",
+        "parent_id": 2851,
+        "slug": "suvenirnye-dengi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/12718.jpg",
+        "id": 12718,
+        "name": "Уход за кожей",
+        "parent_id": 12218,
+        "slug": "uhod-za-kozhey",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/12724.jpg",
+        "id": 12724,
+        "name": "Уход за руками",
+        "parent_id": 12718,
+        "slug": "uhod-za-rukami",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/13087.jpg",
+        "id": 13087,
+        "name": "Комплектующие для светодиодных лент и модулей",
+        "parent_id": 37459,
+        "slug": "komplektuyuschie-dlya-svetodiodnyh-lent-i-moduley",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/13091.jpg",
+        "id": 13091,
+        "name": "Комплектующие для дюралайта",
+        "parent_id": 37457,
+        "slug": "komplektuyuschie-dlya-dyuralayta",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/13323.jpg",
+        "id": 13323,
+        "name": "Почтовые конверты и пакеты",
+        "parent_id": 4132,
+        "slug": "pochtovye-konverty-i-pakety",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/13410.jpg",
+        "id": 13410,
+        "name": "Декор",
+        "parent_id": 542,
+        "slug": "dekor",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/13411-1.jpg",
+        "id": 13411,
+        "name": "Инструменты и аксессуары для творчества",
+        "parent_id": 690,
+        "slug": "instrumenty-i-aksessuary-dlya-tvorchestva",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/13502-2.jpg",
+        "id": 13502,
+        "name": "Салфетки",
+        "parent_id": 3407,
+        "slug": "salfetki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/14603.jpg",
+        "id": 14603,
+        "name": "Уход за волосами",
+        "parent_id": 12218,
+        "slug": "uhod-za-volosami",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/14630-1.jpg",
+        "id": 14630,
+        "name": "Салфетки",
+        "parent_id": 10933,
+        "slug": "salfetki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/15129.jpg",
+        "id": 15129,
+        "name": "Коврики и салфетки для стола",
+        "parent_id": 2500,
+        "slug": "kovriki-i-salfetki-dlya-stola",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/15506.jpg",
+        "id": 15506,
+        "name": "Канцелярские детские наборы",
+        "parent_id": 4489,
+        "slug": "kancelyarskie-detskie-nabory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/15725.jpg",
+        "id": 15725,
+        "name": "Банный декор и сувениры",
+        "parent_id": 5661,
+        "slug": "bannyy-dekor-i-suveniry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/16001.jpg",
+        "id": 16001,
+        "name": "Подвесные ароматизаторы",
+        "parent_id": 3690,
+        "slug": "podvesnye-aromatizatory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/16030.jpg",
+        "id": 16030,
+        "name": "Наклейки",
+        "parent_id": 542,
+        "slug": "nakleyki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/16154-1.jpg",
+        "id": 16154,
+        "name": "Аксессуары для фотосессии",
+        "parent_id": 19,
+        "slug": "aksessuary-dlya-fotosessii",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/16171.jpg",
+        "id": 16171,
+        "name": "Детская косметика",
+        "parent_id": 12218,
+        "slug": "detskaya-kosmetika",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/16174.jpg",
+        "id": 16174,
+        "name": "Средства гигиены малыша",
+        "parent_id": 12218,
+        "slug": "sredstva-gigieny-malysha",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/16176.jpg",
+        "id": 16176,
+        "name": "Уход за кожей малыша",
+        "parent_id": 16174,
+        "slug": "uhod-za-kozhey-malysha",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/16183-1.jpg",
+        "id": 16183,
+        "name": "Аксессуары для создания прически",
+        "parent_id": 1,
+        "slug": "aksessuary-dlya-sozdaniya-pricheski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/16217.jpg",
+        "id": 16217,
+        "name": "Трафареты",
+        "parent_id": 13411,
+        "slug": "trafarety",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/16218.jpg",
+        "id": 16218,
+        "name": "Печати, штампы и комплектующие",
+        "parent_id": 13411,
+        "slug": "pechati-shtampy-i-komplektuyuschie",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/16407.jpg",
+        "id": 16407,
+        "name": "Наборы для исполнения желаний",
+        "parent_id": 5,
+        "slug": "nabory-dlya-ispolneniya-zhelaniy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/16859.jpg",
+        "id": 16859,
+        "name": "Ключницы",
+        "parent_id": 11091,
+        "slug": "klyuchnicy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/17357.jpg",
+        "id": 17357,
+        "name": "Картонный конструктор",
+        "parent_id": 698,
+        "slug": "kartonnyy-konstruktor",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/17582.jpg",
+        "id": 17582,
+        "name": "Детские и семейные игры",
+        "parent_id": 1490,
+        "slug": "detskie-i-semeynye-igry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/18861.jpg",
+        "id": 18861,
+        "name": "Колокольчики",
+        "parent_id": 7,
+        "slug": "kolokolchiki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/19022-1.jpg",
+        "id": 19022,
+        "name": "Спреи",
+        "parent_id": 19,
+        "slug": "sprei",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/19515-1.jpg",
+        "id": 19515,
+        "name": "Кошельковые талисманы",
+        "parent_id": 5,
+        "slug": "koshelkovye-talismany",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/19663.jpg",
+        "id": 19663,
+        "name": "Молды и формы",
+        "parent_id": 13411,
+        "slug": "moldy-i-formy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/19664.jpg",
+        "id": 19664,
+        "name": "Декупаж",
+        "parent_id": 690,
+        "slug": "dekupazh",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/19899-1.jpg",
+        "id": 19899,
+        "name": "Прикладная литература",
+        "parent_id": 1913,
+        "slug": "prikladnaya-literatura",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/19910.jpg",
+        "id": 19910,
+        "name": "Кулинария",
+        "parent_id": 19899,
+        "slug": "kulinariya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/19912-1.jpg",
+        "id": 19912,
+        "name": "Детские книги",
+        "parent_id": 1913,
+        "slug": "detskie-knigi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/20446-1.jpg",
+        "id": 20446,
+        "name": "Телевизоры, видео и аудио",
+        "parent_id": 18950,
+        "slug": "televizory-i-aksessuary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/20506-1.jpg",
+        "id": 20506,
+        "name": "Основы для творчества",
+        "parent_id": 690,
+        "slug": "osnovy-dlya-tvorchestva",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/20696-1.jpg",
+        "id": 20696,
+        "name": "Изготовление свечей",
+        "parent_id": 5320,
+        "slug": "izgotovlenie-svechey",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21158.jpg",
+        "id": 21158,
+        "name": "Средства для принятия душа и ванн",
+        "parent_id": 12718,
+        "slug": "sredstva-dlya-prinyatiya-dusha-i-vann",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21194.jpg",
+        "id": 21194,
+        "name": "Ароматерапия",
+        "parent_id": 12218,
+        "slug": "aromaterapiya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21209.jpg",
+        "id": 21209,
+        "name": "Гадания, пожелания",
+        "parent_id": 2851,
+        "slug": "gadaniya-pozhelaniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21214.jpg",
+        "id": 21214,
+        "name": "Настольные пожелания",
+        "parent_id": 21209,
+        "slug": "nastolnye-pozhelaniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21220.jpg",
+        "id": 21220,
+        "name": "Шампуни",
+        "parent_id": 14603,
+        "slug": "shampuni",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21227.jpg",
+        "id": 21227,
+        "name": "Маски",
+        "parent_id": 14603,
+        "slug": "maski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21240.jpg",
+        "id": 21240,
+        "name": "Маски для лица",
+        "parent_id": 12219,
+        "slug": "maski-dlya-lica",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21241.jpg",
+        "id": 21241,
+        "name": "Бальзамы, гигиенические помады для губ",
+        "parent_id": 12219,
+        "slug": "balzamy-gigienicheskie-pomady-dlya-gub",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21245.jpg",
+        "id": 21245,
+        "name": "Кремы, бальзамы, флюиды",
+        "parent_id": 12219,
+        "slug": "kremy-balzamy-flyuidy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21249.jpg",
+        "id": 21249,
+        "name": "Мыло",
+        "parent_id": 8543,
+        "slug": "mylo",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21264.jpg",
+        "id": 21264,
+        "name": "Аромамасла",
+        "parent_id": 21194,
+        "slug": "aromamasla",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21301-1.jpg",
+        "id": 21301,
+        "name": "Комплектующие для гирлянд",
+        "parent_id": 6326,
+        "slug": "oborudovanie-dlya-podklyucheniya-girlyand",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21424-1.jpg",
+        "id": 21424,
+        "name": "Светодиодные украшения",
+        "parent_id": 39547,
+        "slug": "svetodiodnye-ukrasheniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21442.jpg",
+        "id": 21442,
+        "name": "Сувенирные ключи",
+        "parent_id": 7,
+        "slug": "suvenirnye-klyuchi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21475-1.jpg",
+        "id": 21475,
+        "name": "Медицинские товары",
+        "parent_id": 12218,
+        "slug": "medicinskie-tovary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21929.jpg",
+        "id": 21929,
+        "name": "Термонаклейки",
+        "parent_id": 48351,
+        "slug": "termonakleyki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21930-1.jpg",
+        "id": 21930,
+        "name": "Кружево",
+        "parent_id": 23860,
+        "slug": "kruzhevo",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21932.jpg",
+        "id": 21932,
+        "name": "Ленты",
+        "parent_id": 320,
+        "slug": "lenty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/21997.jpg",
+        "id": 21997,
+        "name": "Наборы пожеланий",
+        "parent_id": 21209,
+        "slug": "nabory-pozhelaniy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/22174.jpg",
+        "id": 22174,
+        "name": "Чайные домики",
+        "parent_id": 34382,
+        "slug": "chaynye-domiki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/22500.jpg",
+        "id": 22500,
+        "name": "Декупажные карты",
+        "parent_id": 19664,
+        "slug": "dekupazhnye-karty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/22611.jpg",
+        "id": 22611,
+        "name": "Наборы для новорожденных",
+        "parent_id": 11,
+        "slug": "nabory-dlya-novorozhdennyh",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/22725.jpg",
+        "id": 22725,
+        "name": "Опыты",
+        "parent_id": 687,
+        "slug": "opyty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/22746.jpg",
+        "id": 22746,
+        "name": "Аксессуары для шаров",
+        "parent_id": 961,
+        "slug": "aksessuary-dlya-sharov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/22887.jpg",
+        "id": 22887,
+        "name": "Мужская одежда",
+        "parent_id": 3515,
+        "slug": "muzhskaya-odezhda",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/22967.jpg",
+        "id": 22967,
+        "name": "Женская одежда",
+        "parent_id": 3515,
+        "slug": "zhenskaya-odezhda",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/23310.jpg",
+        "id": 23310,
+        "name": "Коробочки пожеланий",
+        "parent_id": 21209,
+        "slug": "korobochki-pozhelaniy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/23398-1.jpg",
+        "id": 23398,
+        "name": "Формы для вырезания и лепки",
+        "parent_id": 10977,
+        "slug": "formy-dlya-vyrezaniya-i-lepki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/23527.jpg",
+        "id": 23527,
+        "name": "Грелки и компрессы",
+        "parent_id": 21475,
+        "slug": "grelki-i-kompressy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/23860-1.jpg",
+        "id": 23860,
+        "name": "Отделочные материалы",
+        "parent_id": 320,
+        "slug": "otdelochnye-materialy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/23871-1.jpg",
+        "id": 23871,
+        "name": "Принадлежности для шитья",
+        "parent_id": 320,
+        "slug": "prinadlezhnosti-dlya-shitya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24015.jpg",
+        "id": 24015,
+        "name": "Аксессуары",
+        "parent_id": 4804,
+        "slug": "aksessuary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24182.jpg",
+        "id": 24182,
+        "name": "Продукты питания",
+        "parent_id": 63495,
+        "slug": "produkty-pitaniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24183-1.jpg",
+        "id": 24183,
+        "name": "Жевательные резинки",
+        "parent_id": 24184,
+        "slug": "zhevatelnye-rezinki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24184.jpg",
+        "id": 24184,
+        "name": "Кондитерские изделия",
+        "parent_id": 24182,
+        "slug": "konditerskie-izdeliya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24186-1.jpg",
+        "id": 24186,
+        "name": "Конфеты",
+        "parent_id": 24184,
+        "slug": "konfety",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24189.jpg",
+        "id": 24189,
+        "name": "Кофе",
+        "parent_id": 24512,
+        "slug": "kofe",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24191.jpg",
+        "id": 24191,
+        "name": "Мёд",
+        "parent_id": 42027,
+        "slug": "med",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24194.jpg",
+        "id": 24194,
+        "name": "Сахар",
+        "parent_id": 42027,
+        "slug": "sahar",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24196.jpg",
+        "id": 24196,
+        "name": "Чай",
+        "parent_id": 24512,
+        "slug": "chay",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24258-1.jpg",
+        "id": 24258,
+        "name": "Шоколад",
+        "parent_id": 24184,
+        "slug": "shokolad",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24259.jpg",
+        "id": 24259,
+        "name": "Мармелад",
+        "parent_id": 24184,
+        "slug": "marmelad",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24260-1.jpg",
+        "id": 24260,
+        "name": "Печенье",
+        "parent_id": 24184,
+        "slug": "pechene",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24383-1.jpg",
+        "id": 24383,
+        "name": "Леденцы",
+        "parent_id": 24184,
+        "slug": "ledency",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/24512.jpg",
+        "id": 24512,
+        "name": "Чай, кофе и какао",
+        "parent_id": 24182,
+        "slug": "chay-kofe-kakao",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/25351-1.jpg",
+        "id": 25351,
+        "name": "Термонаклейки",
+        "parent_id": 77,
+        "slug": "termonakleyki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/25369-1.jpg",
+        "id": 25369,
+        "name": "Наклейки на тело",
+        "parent_id": 77,
+        "slug": "nakleyki-na-telo",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/25371.jpg",
+        "id": 25371,
+        "name": "Наклейки для дома",
+        "parent_id": 77,
+        "slug": "nakleyki-dlya-doma",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/25378-1.jpg",
+        "id": 25378,
+        "name": "Наклейки на технику и электронику",
+        "parent_id": 77,
+        "slug": "nakleyki-na-tehniku-i-elektroniku",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/25401.jpg",
+        "id": 25401,
+        "name": "Музыкальные инструменты",
+        "parent_id": 690,
+        "slug": "muzykalnye-instrumenty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/25961-1.jpg",
+        "id": 25961,
+        "name": "Наборы для шитья",
+        "parent_id": 40680,
+        "slug": "nabory-dlya-shitya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/26075-4.jpg",
+        "id": 26075,
+        "name": "Светодиодные свечи",
+        "parent_id": 11092,
+        "slug": "svetodiodnye-svechi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/26089-1.jpg",
+        "id": 26089,
+        "name": "Новогодние свечи",
+        "parent_id": 11092,
+        "slug": "novogodnie-svechi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/26099-2.jpg",
+        "id": 26099,
+        "name": "Античные, витые свечи",
+        "parent_id": 11092,
+        "slug": "antichnye-vitye-svechi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/26517.jpg",
+        "id": 26517,
+        "name": "Текстиль для бани и сауны",
+        "parent_id": 5661,
+        "slug": "tekstil-dlya-bani-i-sauny",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/26518.jpg",
+        "id": 26518,
+        "name": "Ароматерапия и веники для бани",
+        "parent_id": 5661,
+        "slug": "aromaterapiya-i-veniki-dlya-bani",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/26534.jpg",
+        "id": 26534,
+        "name": "Ароматизаторы для бани",
+        "parent_id": 26518,
+        "slug": "aromatizatory-dlya-bani",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/26535.jpg",
+        "id": 26535,
+        "name": "Запарки",
+        "parent_id": 26518,
+        "slug": "zaparki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/26954.jpg",
+        "id": 26954,
+        "name": "Вязание и валяние",
+        "parent_id": 690,
+        "slug": "vyazanie-i-valyanie",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/27308.jpg",
+        "id": 27308,
+        "name": "Ингредиенты для выпечки",
+        "parent_id": 42027,
+        "slug": "ingredienty-dlya-vypechki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/27497.jpg",
+        "id": 27497,
+        "name": "Диетическое и здоровое питание",
+        "parent_id": 24182,
+        "slug": "dieticheskoe-i-zdorovoe-pitanie",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/27775.jpg",
+        "id": 27775,
+        "name": "Фотофоны",
+        "parent_id": 40711,
+        "slug": "fotofony",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/28578-1.jpg",
+        "id": 28578,
+        "name": "Раскраски",
+        "parent_id": 19912,
+        "slug": "raskraski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/28605.jpg",
+        "id": 28605,
+        "name": "Рукавицы",
+        "parent_id": 26517,
+        "slug": "rukavicy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/28606.jpg",
+        "id": 28606,
+        "name": "Коврики для сауны",
+        "parent_id": 26517,
+        "slug": "kovriki-dlya-sauny",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/28611.jpg",
+        "id": 28611,
+        "name": "Шапки для бани и сауны",
+        "parent_id": 26517,
+        "slug": "shapki-dlya-bani-i-sauny",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/28701-1.jpg",
+        "id": 28701,
+        "name": "Кондитерская упаковка",
+        "parent_id": 10977,
+        "slug": "konditerskaya-upakovka",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/29319.jpg",
+        "id": 29319,
+        "name": "Декоративные буквы, цифры",
+        "parent_id": 20506,
+        "slug": "dekorativnye-bukvy-cifry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/29321-1.jpg",
+        "id": 29321,
+        "name": "Фигурки",
+        "parent_id": 20506,
+        "slug": "figurki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/30187-1.jpg",
+        "id": 30187,
+        "name": "Тарелки",
+        "parent_id": 10933,
+        "slug": "tarelki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/30188.jpg",
+        "id": 30188,
+        "name": "Стаканы и кружки",
+        "parent_id": 10933,
+        "slug": "stakany-kruzhki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/30223-1.jpg",
+        "id": 30223,
+        "name": "Духовые",
+        "parent_id": 25401,
+        "slug": "duhovye",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/30377.jpg",
+        "id": 30377,
+        "name": "Роспись",
+        "parent_id": 1999,
+        "slug": "rospis",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/30784-1.jpg",
+        "id": 30784,
+        "name": "Бусины для браслетов и колец",
+        "parent_id": 4055,
+        "slug": "businy-dlya-brasletov-i-kolec",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/30793.jpg",
+        "id": 30793,
+        "name": "Наборы для создания фрески",
+        "parent_id": 2782,
+        "slug": "nabory-dlya-sozdaniya-freski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/30855-3.jpg",
+        "id": 30855,
+        "name": "Животные",
+        "parent_id": 842,
+        "slug": "zhivotnye",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/31224-1.jpg",
+        "id": 31224,
+        "name": "Spa-наборы",
+        "parent_id": 5320,
+        "slug": "spa-nabory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/31506.jpg",
+        "id": 31506,
+        "name": "Игры для взрослых 18+",
+        "parent_id": 1490,
+        "slug": "igry-dlya-vzroslyh-18-plus",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/32617-1.jpg",
+        "id": 32617,
+        "name": "Восточные сладости",
+        "parent_id": 24184,
+        "slug": "vostochnye-sladosti",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/32787-1.jpg",
+        "id": 32787,
+        "name": "Держатели для проводов",
+        "parent_id": 59673,
+        "slug": "derzhateli-dlya-provodov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/33097.jpg",
+        "id": 33097,
+        "name": "Ценники и ценникодержатели",
+        "parent_id": 1882,
+        "slug": "cenniki-cennikoderzhateli",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/33648.jpg",
+        "id": 33648,
+        "name": "Снежколепы",
+        "parent_id": 5407,
+        "slug": "snezhkolepy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/33804.jpg",
+        "id": 33804,
+        "name": "Посуда для приготовления пищи",
+        "parent_id": 12,
+        "slug": "posuda-dlya-prigotovleniya-pischi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/33805-1.jpg",
+        "id": 33805,
+        "name": "Посуда для приготовления на плите",
+        "parent_id": 33804,
+        "slug": "posuda-dlya-prigotovleniya-na-plite",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/33826-1.jpg",
+        "id": 33826,
+        "name": "Посуда для запекания и выпечки в духовом шкафу",
+        "parent_id": 33804,
+        "slug": "posuda-dlya-zapekaniya-i-vypechki-v-duhovom-shkafu",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34162-1.jpg",
+        "id": 34162,
+        "name": "Монеты",
+        "parent_id": 5,
+        "slug": "monety",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34305-1.jpg",
+        "id": 34305,
+        "name": "Кухонная утварь",
+        "parent_id": 10975,
+        "slug": "kuhonnaya-utvar",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34307-1.jpg",
+        "id": 34307,
+        "name": "Кухонные инструменты",
+        "parent_id": 10975,
+        "slug": "kuhonnye-instrumenty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34324-1.jpg",
+        "id": 34324,
+        "name": "Кондитерские шпатели",
+        "parent_id": 10977,
+        "slug": "konditerskie-shpateli",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34332.jpg",
+        "id": 34332,
+        "name": "Кондитерские выемки",
+        "parent_id": 10977,
+        "slug": "konditerskie-vyemki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34339.jpg",
+        "id": 34339,
+        "name": "Кондитерские молды",
+        "parent_id": 10977,
+        "slug": "konditerskie-moldy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34362-1.jpg",
+        "id": 34362,
+        "name": "Аксессуары для кухни",
+        "parent_id": 10975,
+        "slug": "aksessuary-dlya-kuhni",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34382.jpg",
+        "id": 34382,
+        "name": "Хранение продуктов",
+        "parent_id": 12,
+        "slug": "hranenie-produktov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34406.jpg",
+        "id": 34406,
+        "name": "Контейнеры для хранения продуктов",
+        "parent_id": 34382,
+        "slug": "konteynery-dlya-hraneniya-produktov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34427.jpg",
+        "id": 34427,
+        "name": "Сервировка стола",
+        "parent_id": 12,
+        "slug": "servirovka-stola",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34428-1.jpg",
+        "id": 34428,
+        "name": "Аксессуары для сервировки",
+        "parent_id": 34427,
+        "slug": "aksessuary-dlya-servirovki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34446-1.jpg",
+        "id": 34446,
+        "name": "Предметы сервировки",
+        "parent_id": 34427,
+        "slug": "predmety-servirovki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34458-1.jpg",
+        "id": 34458,
+        "name": "Столовая посуда",
+        "parent_id": 34427,
+        "slug": "stolovaya-posuda",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34464-1.jpg",
+        "id": 34464,
+        "name": "Посуда для напитков",
+        "parent_id": 34427,
+        "slug": "posuda-dlya-napitkov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34531-1.jpg",
+        "id": 34531,
+        "name": "Формы для леденцов и мороженого",
+        "parent_id": 10977,
+        "slug": "formy-dlya-ledencov-i-morozhenogo",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34535-1.jpg",
+        "id": 34535,
+        "name": "Формы для льда и шоколада",
+        "parent_id": 10977,
+        "slug": "formy-dlya-lda-i-shokolada",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34697.jpg",
+        "id": 34697,
+        "name": "Чертёжные принадлежности",
+        "parent_id": 8,
+        "slug": "chertezhnye-prinadlezhnosti",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/34750.jpg",
+        "id": 34750,
+        "name": "Сладкие подарки",
+        "parent_id": 24184,
+        "slug": "sladkie-podarki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/35172.jpg",
+        "id": 35172,
+        "name": "Скетчбуки",
+        "parent_id": 4132,
+        "slug": "sketchbuki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/35671.jpg",
+        "id": 35671,
+        "name": "Носки, колготки и чулки",
+        "parent_id": 22967,
+        "slug": "chulochno-nosochnye-izdeliya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/36247-1.jpg",
+        "id": 36247,
+        "name": "Пряники",
+        "parent_id": 24184,
+        "slug": "pryaniki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/630766/0/140.jpg",
+        "id": 36824,
+        "name": "Комплектующие для неона",
+        "parent_id": 37456,
+        "slug": "komplektuyuschie-dlya-neona",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/37042-1.jpg",
+        "id": 37042,
+        "name": "Декоративный текстиль",
+        "parent_id": 3397,
+        "slug": "dekorativnyy-tekstil",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/37043-1.jpg",
+        "id": 37043,
+        "name": "Текстиль для ванной",
+        "parent_id": 3397,
+        "slug": "tekstil-dlya-vannoy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/37104.jpg",
+        "id": 37104,
+        "name": "Декоративные полотенца",
+        "parent_id": 37042,
+        "slug": "dekorativnye-polotenca",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/37111-1.jpg",
+        "id": 37111,
+        "name": "Трафареты",
+        "parent_id": 10977,
+        "slug": "trafarety",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/37232-1.jpg",
+        "id": 37232,
+        "name": "Компьютеры и периферия",
+        "parent_id": 18950,
+        "slug": "kompyutery-i-planshety",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/37234-1.jpg",
+        "id": 37234,
+        "name": "Смартфоны, гаджеты и планшеты",
+        "parent_id": 18950,
+        "slug": "telefony-gadzhety-i-aksessuary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/37452-1.jpg",
+        "id": 37452,
+        "name": "Светильники и комплектующие",
+        "parent_id": 39547,
+        "slug": "svetilniki-i-komplektuyuschie",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/37456-1.jpg",
+        "id": 37456,
+        "name": "Гибкий неон и комплектующие",
+        "parent_id": 39547,
+        "slug": "gibkiy-neon-i-komplektuyuschie",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/37457.jpg",
+        "id": 37457,
+        "name": "Дюралайт и комплектующие",
+        "parent_id": 39547,
+        "slug": "dyuralayt-i-komplektuyuschie",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/37459.jpg",
+        "id": 37459,
+        "name": "Светодиодные ленты, модули и комплектующие",
+        "parent_id": 39547,
+        "slug": "svetodiodnye-lenty-moduli-i-komplektuyuschie",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/37876-1.jpg",
+        "id": 37876,
+        "name": "Макияж",
+        "parent_id": 12218,
+        "slug": "makiyazh",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/1398708/0/140.jpg",
+        "id": 37879,
+        "name": "Косметика для тела",
+        "parent_id": 12718,
+        "slug": "kosmetika-dlya-tela",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/37893.jpg",
+        "id": 37893,
+        "name": "Маникюрные инструменты",
+        "parent_id": 247,
+        "slug": "manikyurnye-instrumenty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/38076.jpg",
+        "id": 38076,
+        "name": "Открытки и конверты для денег",
+        "parent_id": 3003,
+        "slug": "otkrytki-i-konverty-dlya-deneg",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/38185.jpg",
+        "id": 38185,
+        "name": "Средства для ногтей",
+        "parent_id": 247,
+        "slug": "sredstva-dlya-nogtey",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/38282-1.jpg",
+        "id": 38282,
+        "name": "Открытки и конверты для денег",
+        "parent_id": 875,
+        "slug": "novogodnie-otkrytki-i-konverty-dlya-deneg",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/38313.jpg",
+        "id": 38313,
+        "name": "Наборы с продуктами",
+        "parent_id": 24182,
+        "slug": "nabory-produktov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/38352-1.jpg",
+        "id": 38352,
+        "name": "Шейные украшения",
+        "parent_id": 2,
+        "slug": "sheynye-ukrasheniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/757961/0/140.jpg",
+        "id": 38395,
+        "name": "Автомобильный декор",
+        "parent_id": 4161,
+        "slug": "avtomobilnyy-dekor",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/38412.jpg",
+        "id": 38412,
+        "name": "Головные уборы",
+        "parent_id": 19,
+        "slug": "golovnye-ubory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/38618.jpg",
+        "id": 38618,
+        "name": "Сувениры",
+        "parent_id": 875,
+        "slug": "novogodnie-suveniry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/1223396/0/140.jpg",
+        "id": 39182,
+        "name": "Снежные шары",
+        "parent_id": 7,
+        "slug": "snezhnye-shary",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/39301.jpg",
+        "id": 39301,
+        "name": "Наборы косметики",
+        "parent_id": 37876,
+        "slug": "nabory-kosmetiki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/39391.jpg",
+        "id": 39391,
+        "name": "Товары для здоровья малыша",
+        "parent_id": 4047,
+        "slug": "tovary-dlya-zdorovya-malysha",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/39515.jpg",
+        "id": 39515,
+        "name": "Световые подставки и картинки",
+        "parent_id": 21424,
+        "slug": "svetovye-podstavki-i-kartinki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/39529.jpg",
+        "id": 39529,
+        "name": "Игольницы",
+        "parent_id": 23871,
+        "slug": "igolnicy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/1645110/0/140.jpg",
+        "id": 39546,
+        "name": "Косметические наборы",
+        "parent_id": 11,
+        "slug": "kosmeticheskie-nabory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/39547-1.jpg",
+        "id": 39547,
+        "name": "Освещение",
+        "parent_id": 63495,
+        "slug": "osveschenie",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/2054896/0/140.jpg",
+        "id": 39571,
+        "name": "Новогодние копилки",
+        "parent_id": 521,
+        "slug": "novogodnie-kopilki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/39730.jpg",
+        "id": 39730,
+        "name": "Ценники",
+        "parent_id": 33097,
+        "slug": "cenniki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/1805505/0/140.jpg",
+        "id": 39791,
+        "name": "Кашпо, горшки для цветов",
+        "parent_id": 7981,
+        "slug": "kashpo-gorshki-dlya-cvetov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40014-1.jpg",
+        "id": 40014,
+        "name": "Игрушки-антистресс",
+        "parent_id": 694,
+        "slug": "igrushki-antistress",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/2284410/0/140.jpg",
+        "id": 40259,
+        "name": "Наклейки на посуду",
+        "parent_id": 77,
+        "slug": "nakleyki-na-posudu",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40263.jpg",
+        "id": 40263,
+        "name": "Ёлки и ёлочные украшения",
+        "parent_id": 875,
+        "slug": "elki-i-elochnye-ukrasheniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/2081658/0/140.jpg",
+        "id": 40316,
+        "name": "Копилки",
+        "parent_id": 20506,
+        "slug": "kopilki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40512-1.jpg",
+        "id": 40512,
+        "name": "Бенгальские свечи",
+        "parent_id": 11092,
+        "slug": "bengalskie-svechi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40680.jpg",
+        "id": 40680,
+        "name": "Шитьё и вышивание",
+        "parent_id": 690,
+        "slug": "shite-i-vyshivanie",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40711.jpg",
+        "id": 40711,
+        "name": "Другие виды творчества",
+        "parent_id": 690,
+        "slug": "drugie-vidy-tvorchestva",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40712.jpg",
+        "id": 40712,
+        "name": "Декор для творчества",
+        "parent_id": 690,
+        "slug": "dekor-dlya-tvorchestva",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40713.jpg",
+        "id": 40713,
+        "name": "Фурнитура для творчества",
+        "parent_id": 40712,
+        "slug": "furnitura-dlya-tvorchestva",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40721-1.jpg",
+        "id": 40721,
+        "name": "Природный декор",
+        "parent_id": 40712,
+        "slug": "prirodnyy-dekor",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40722.jpg",
+        "id": 40722,
+        "name": "Топсы, фишки",
+        "parent_id": 40712,
+        "slug": "topsy-fishki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40756-1.jpg",
+        "id": 40756,
+        "name": "Материалы для скрапбукинга",
+        "parent_id": 542,
+        "slug": "materialy-dlya-skrapbukinga",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/950171/0/140.jpg",
+        "id": 40939,
+        "name": "Бирки, теги, шильдики",
+        "parent_id": 40712,
+        "slug": "birki-tegi-shildiki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40940.jpg",
+        "id": 40940,
+        "name": "Брадсы",
+        "parent_id": 40712,
+        "slug": "bradsy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40944.jpg",
+        "id": 40944,
+        "name": "Подвески",
+        "parent_id": 40712,
+        "slug": "podveski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/2149146/0/140.jpg",
+        "id": 40945,
+        "name": "Прищепки и скрепки",
+        "parent_id": 40712,
+        "slug": "prischepki-i-skrepki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/1534413/0/140.jpg",
+        "id": 40947,
+        "name": "Фигурный декор",
+        "parent_id": 40712,
+        "slug": "figurnyy-dekor",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/40948-1.jpg",
+        "id": 40948,
+        "name": "Чипборды, вырубки и высечки",
+        "parent_id": 40712,
+        "slug": "chipbordy-vyrubki-i-vysechki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/41220.jpg",
+        "id": 41220,
+        "name": "Флористика",
+        "parent_id": 40711,
+        "slug": "floristika",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/41273.jpg",
+        "id": 41273,
+        "name": "Искусственные флористические элементы",
+        "parent_id": 40712,
+        "slug": "iskusstvennye-floristicheskie-elementy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/1133020/0/140.jpg",
+        "id": 41336,
+        "name": "Шашки",
+        "parent_id": 178,
+        "slug": "shashki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/41337-1.jpg",
+        "id": 41337,
+        "name": "Пятнашки",
+        "parent_id": 178,
+        "slug": "pyatnashki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/41534-1.jpg",
+        "id": 41534,
+        "name": "Свечи-фонтаны",
+        "parent_id": 11092,
+        "slug": "svechi-fontany",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/41873-1.jpg",
+        "id": 41873,
+        "name": "Маршмеллоу",
+        "parent_id": 24184,
+        "slug": "marshmellou",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/2489637/0/140.jpg",
+        "id": 42023,
+        "name": "Средства для ухода за усами и бородой",
+        "parent_id": 14603,
+        "slug": "sredstva-dlya-uhoda-za-usami-i-borodoy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/42027.jpg",
+        "id": 42027,
+        "name": "Бакалея",
+        "parent_id": 24182,
+        "slug": "bakaleya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/42101-1.jpg",
+        "id": 42101,
+        "name": "Питомцы и аксессуары",
+        "parent_id": 1255,
+        "slug": "pitomcy-dlya-kukol",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/2487131/0/140.jpg",
+        "id": 42215,
+        "name": "Декоративные рамки",
+        "parent_id": 40712,
+        "slug": "dekorativnye-ramki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/43080-1.jpg",
+        "id": 43080,
+        "name": "Досуг и увлечения детей",
+        "parent_id": 19912,
+        "slug": "dosug-i-uvlecheniya-detey",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/43301-1.jpg",
+        "id": 43301,
+        "name": "Воздушно-ветровые игрушки",
+        "parent_id": 694,
+        "slug": "vozdushno-vetrovye-igrushki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/43415-1.jpg",
+        "id": 43415,
+        "name": "Музыкальные инструменты",
+        "parent_id": 695,
+        "slug": "muzykalnye-instrumenty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/43453.jpg",
+        "id": 43453,
+        "name": "Мягкие игрушки по размерам",
+        "parent_id": 701,
+        "slug": "myagkie-igrushki-po-razmeram",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/43535-1.jpg",
+        "id": 43535,
+        "name": "Наборы для активных игр",
+        "parent_id": 182,
+        "slug": "nabory-dlya-aktivnyh-igr",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/43540-1.jpg",
+        "id": 43540,
+        "name": "Развивающее творчество",
+        "parent_id": 704,
+        "slug": "razvivayuschee-tvorchestvo",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/2347698/0/140.jpg",
+        "id": 43665,
+        "name": "Комплектующие для светильников",
+        "parent_id": 37452,
+        "slug": "komplektuyuschie-dlya-svetilnikov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/44181.jpg",
+        "id": 44181,
+        "name": "Проекторы",
+        "parent_id": 704,
+        "slug": "proektory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/44194.jpg",
+        "id": 44194,
+        "name": "Дергунчики и прыгунки",
+        "parent_id": 694,
+        "slug": "dergunchiki-i-prygunki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/44546.jpg",
+        "id": 44546,
+        "name": "Карандаши для рисования",
+        "parent_id": 59926,
+        "slug": "karandashi-dlya-risovaniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/44613-2.jpg",
+        "id": 44613,
+        "name": "Портативное аудио",
+        "parent_id": 20446,
+        "slug": "audiotehnika",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/44679-1.jpg",
+        "id": 44679,
+        "name": "Наборы для рисования светом",
+        "parent_id": 1999,
+        "slug": "nabory-dlya-risovaniya-svetom",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/44744-1.jpg",
+        "id": 44744,
+        "name": "Атласные ленты",
+        "parent_id": 21932,
+        "slug": "atlasnye-lenty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/44750-1.jpg",
+        "id": 44750,
+        "name": "Капроновые ленты",
+        "parent_id": 21932,
+        "slug": "kapronovye-lenty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/44752-1.jpg",
+        "id": 44752,
+        "name": "Парчовые ленты",
+        "parent_id": 21932,
+        "slug": "parchovye-lenty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/2352244/0/140.jpg",
+        "id": 45051,
+        "name": "Батончики",
+        "parent_id": 27497,
+        "slug": "batonchiki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/45313.jpg",
+        "id": 45313,
+        "name": "Коробки",
+        "parent_id": 584,
+        "slug": "korobki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/45463.jpg",
+        "id": 45463,
+        "name": "Универсальная упаковка",
+        "parent_id": 45722,
+        "slug": "universalnaya-upakovka",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/45465.jpg",
+        "id": 45465,
+        "name": "Пакеты для упаковки и фасовки товара",
+        "parent_id": 45463,
+        "slug": "pakety-dlya-upakovki-i-fasovki-tovara",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/45545.jpg",
+        "id": 45545,
+        "name": "Пищевая упаковка",
+        "parent_id": 45722,
+        "slug": "pischevaya-upakovka",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/45577.jpg",
+        "id": 45577,
+        "name": "Упаковка для кондитерских изделий",
+        "parent_id": 45545,
+        "slug": "konditerskaya-upakovka",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/45722-1.jpg",
+        "id": 45722,
+        "name": "Упаковка",
+        "parent_id": 63495,
+        "slug": "upakovka",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/2756876/0/140.jpg",
+        "id": 45769,
+        "name": "Монеты",
+        "parent_id": 12581,
+        "slug": "monety",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/3227589/0/140.jpg",
+        "id": 45856,
+        "name": "Основы для вязаных изделий",
+        "parent_id": 20506,
+        "slug": "osnovy-dlya-vyazanyh-izdeliy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/46801.jpg",
+        "id": 46801,
+        "name": "Открытые",
+        "parent_id": 16859,
+        "slug": "otkrytye",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/46962-1.jpg",
+        "id": 46962,
+        "name": "Аксессуары для телефонов и планшетов",
+        "parent_id": 37234,
+        "slug": "aksessuary-dlya-telefonov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/47607-1.jpg",
+        "id": 47607,
+        "name": "Шары для палочки",
+        "parent_id": 961,
+        "slug": "shary-s-palochkami",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/48330.jpg",
+        "id": 48330,
+        "name": "Создание игрушек и кукол",
+        "parent_id": 687,
+        "slug": "sozdanie-igrushek-i-kukol",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/48332.jpg",
+        "id": 48332,
+        "name": "Наборы для создания игрушек",
+        "parent_id": 48330,
+        "slug": "nabory-dlya-sozdaniya-igrushek",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/48351.jpg",
+        "id": 48351,
+        "name": "Декоративные элементы для одежды",
+        "parent_id": 320,
+        "slug": "dekorativnye-elementy-dlya-odezhdy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/3766085/0/140.jpg",
+        "id": 48363,
+        "name": "Панель для стикеров на компьютер",
+        "parent_id": 4485,
+        "slug": "panel-dlya-stikerov-na-kompyuter",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/48386-1.jpg",
+        "id": 48386,
+        "name": "Компактные",
+        "parent_id": 99,
+        "slug": "kompaktnye",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/48680-1.jpg",
+        "id": 48680,
+        "name": "Броши",
+        "parent_id": 1811,
+        "slug": "broshi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/48681-1.jpg",
+        "id": 48681,
+        "name": "Значки",
+        "parent_id": 1811,
+        "slug": "znachki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/48682.jpg",
+        "id": 48682,
+        "name": "Булавки",
+        "parent_id": 1811,
+        "slug": "bulavki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/49813.jpg",
+        "id": 49813,
+        "name": "Подвески",
+        "parent_id": 38352,
+        "slug": "podveski",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/1777440/0/140.jpg",
+        "id": 50353,
+        "name": "Канцелярские подарочные наборы",
+        "parent_id": 11,
+        "slug": "kancelyarskie-podarochnye-nabory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/50362.jpg",
+        "id": 50362,
+        "name": "Куклы и пупсы",
+        "parent_id": 687,
+        "slug": "kukly-i-pupsy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/50367.jpg",
+        "id": 50367,
+        "name": "Малышки",
+        "parent_id": 50362,
+        "slug": "malyshki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/50728-1.jpg",
+        "id": 50728,
+        "name": "Химия",
+        "parent_id": 22725,
+        "slug": "himiya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/50736-1.jpg",
+        "id": 50736,
+        "name": "Кристаллы",
+        "parent_id": 22725,
+        "slug": "kristally",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/50742-1.jpg",
+        "id": 50742,
+        "name": "Гидрогель",
+        "parent_id": 22725,
+        "slug": "gidrogel",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/51037-1.jpg",
+        "id": 51037,
+        "name": "Аксессуары для наушников",
+        "parent_id": 44613,
+        "slug": "aksessuary-dlya-naushnikov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/51838-1.jpg",
+        "id": 51838,
+        "name": "Конверты для столовых приборов",
+        "parent_id": 3407,
+        "slug": "konverty-dlya-stolovyh-priborov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/52230-1.jpg",
+        "id": 52230,
+        "name": "Попсокеты",
+        "parent_id": 46962,
+        "slug": "popsokety",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/52407-1.jpg",
+        "id": 52407,
+        "name": "Садовые гирлянды",
+        "parent_id": 6326,
+        "slug": "sadovye-girlyandy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/36929/0/140.jpg",
+        "id": 53092,
+        "name": "Организация пространства и интерьера",
+        "parent_id": 22,
+        "slug": "organizaciya-prostranstva-i-interera",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/53156.jpg",
+        "id": 53156,
+        "name": "Новогодние серьги",
+        "parent_id": 1823,
+        "slug": "novogodnie-sergi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/53807-1.jpg",
+        "id": 53807,
+        "name": "Игрушки-сюрпризы",
+        "parent_id": 694,
+        "slug": "igrushki-syurprizy",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/53986.jpg",
+        "id": 53986,
+        "name": "Новогодние браслеты",
+        "parent_id": 1793,
+        "slug": "novogodnie-braslety",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/53993-1.jpg",
+        "id": 53993,
+        "name": "Браслеты-обереги",
+        "parent_id": 1793,
+        "slug": "braslety-oberegi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/54001.jpg",
+        "id": 54001,
+        "name": "Новогодние ленты",
+        "parent_id": 21932,
+        "slug": "novogodnie-lenty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/54178.jpg",
+        "id": 54178,
+        "name": "Копилки-банки",
+        "parent_id": 521,
+        "slug": "kopilki-banki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/54507.jpg",
+        "id": 54507,
+        "name": "Новогодние броши",
+        "parent_id": 1811,
+        "slug": "novogodnie-broshi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/56437-1.jpg",
+        "id": 56437,
+        "name": "Женщинам",
+        "parent_id": 11187,
+        "slug": "zhenschinam",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/56439-1.jpg",
+        "id": 56439,
+        "name": "Детям и подросткам",
+        "parent_id": 11187,
+        "slug": "detyam-i-podrostkam",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/59673-1.jpg",
+        "id": 59673,
+        "name": "Аксессуары для компьютеров",
+        "parent_id": 37232,
+        "slug": "aksessuary-dlya-kompyuterov",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/59709.jpg",
+        "id": 59709,
+        "name": "Наушники и гарнитуры",
+        "parent_id": 46962,
+        "slug": "naushniki-i-garnitury",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/59867.jpg",
+        "id": 59867,
+        "name": "Губы",
+        "parent_id": 37876,
+        "slug": "guby",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/59868.jpg",
+        "id": 59868,
+        "name": "Глаза",
+        "parent_id": 37876,
+        "slug": "glaza",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/59870.jpg",
+        "id": 59870,
+        "name": "Лицо",
+        "parent_id": 37876,
+        "slug": "lico",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/2490399/0/140.jpg",
+        "id": 59926,
+        "name": "Принадлежности для рисования",
+        "parent_id": 8,
+        "slug": "prinadlezhnosti-dlya-risovaniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/60425.jpg",
+        "id": 60425,
+        "name": "Магнитные игры",
+        "parent_id": 704,
+        "slug": "magnitnye-nabory",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/61012.jpg",
+        "id": 61012,
+        "name": "Новогодние книги",
+        "parent_id": 19912,
+        "slug": "novogodnie-knigi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/61652.jpg",
+        "id": 61652,
+        "name": "Хоккей",
+        "parent_id": 705,
+        "slug": "hokkey",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/61820.jpg",
+        "id": 61820,
+        "name": "Декоративная косметика",
+        "parent_id": 16171,
+        "slug": "dekorativnaya-kosmetika",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/62022-1.jpg",
+        "id": 62022,
+        "name": "Декор для салфеток",
+        "parent_id": 3407,
+        "slug": "dekor-dlya-salfetok",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn3.static1-sima-land.com/items/4370630/0/140.jpg",
+        "id": 62940,
+        "name": "Световые ёлочные украшения",
+        "parent_id": 21424,
+        "slug": "svetovye-elochnye-ukrasheniya",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/63072.jpg",
+        "id": 63072,
+        "name": "Бродилки",
+        "parent_id": 699,
+        "slug": "brodilki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/63076.jpg",
+        "id": 63076,
+        "name": "Головоломки",
+        "parent_id": 699,
+        "slug": "golovolomki",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/63078.jpg",
+        "id": 63078,
+        "name": "Детективные игры",
+        "parent_id": 699,
+        "slug": "detektivnye-igry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/63090.jpg",
+        "id": 63090,
+        "name": "Квесты",
+        "parent_id": 699,
+        "slug": "kvesty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/63092.jpg",
+        "id": 63092,
+        "name": "Логические игры",
+        "parent_id": 699,
+        "slug": "logicheskie-igry",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/63096.jpg",
+        "id": 63096,
+        "name": "Объясни и покажи",
+        "parent_id": 699,
+        "slug": "obyasni-i-pokazhi",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/63102.jpg",
+        "id": 63102,
+        "name": "Стратегии",
+        "parent_id": 699,
+        "slug": "strategii",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/63104.jpg",
+        "id": 63104,
+        "name": "Фанты",
+        "parent_id": 699,
+        "slug": "fanty",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/63108.jpg",
+        "id": 63108,
+        "name": "Детское домино",
+        "parent_id": 704,
+        "slug": "detskoe-domino",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/63480.jpg",
+        "id": 63480,
+        "name": "Свечи в стаканах и банках",
+        "parent_id": 11092,
+        "slug": "svechi-v-stakanah-i-bankah",
+        "status": 1,
+        "type": 2
+    },
+    {
+        "icon": "https://cdn2.static1-sima-land.com/categories/875.jpg",
+        "id": 63495,
+        "name": "Новый год",
+        "parent_id": 0,
+        "slug": "noviy-god",
+        "status": 1,
+        "type": 2
+    }
+]
