@@ -162,7 +162,7 @@ func insertCategory(product Category) (string, error) {
 		product.Name,
 		parent_id,
 		product.Slug)
-	sqlText := fmt.Sprintf(`REPLACE INTO %v %v VALUES %v`, TableNameCategory, TableFieldsCategory, record)
+	sqlText := fmt.Sprintf(`INSERT INTO %v %v VALUES %v`, TableNameCategory, TableFieldsCategory, record)
 
 	_, err := db.Exec(sqlText)
 	return sqlText, err
